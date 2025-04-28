@@ -1,0 +1,27 @@
+{
+    "Transcription: ": "First, move forward by 3 meters and then ascend up by 2 meters. Continue to advance forward by 6 meters and then at last descend down by 2 meters.",
+    "Ground Truth: ": "First, Move forward by 3 meters and then ascend up by 2 meters. Continue to advance forward by 6 meters and then at last descend down by 2 meters.",
+    "CER: ": 0.0,
+    "Commands ": [
+        {
+            "action": "move",
+            "direction": "forward",
+            "distance": 3
+        },
+        {
+            "action": "ascend",
+            "direction": "up",
+            "distance": 2
+        },
+        {
+            "action": "advance",
+            "direction": "forward",
+            "distance": 6
+        },
+        {
+            "action": "descend",
+            "direction": "down",
+            "distance": 2
+        }
+    ]
+}
