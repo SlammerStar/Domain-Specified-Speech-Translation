@@ -43,13 +43,13 @@ The project evaluates transcription quality using **Character Error Rate (CER)**
 
 ## 🗂️ Project Structure
 📂 Domain-Specified-Speech-Translation
-├── whisper_transcribe_cer.py # Core transcription + CER evaluation
-├── nptel_transcription.py # NPTEL domain-specific transcription
-├── Robot_Instruction_NLP.py # NLP for robot instruction processing
-├── Robot_Instruction_results.json # Sample output for NLP script
-├── requirements.txt # Dependencies
-├── README.md # Documentation (this file)
-└── ...
+ ├── scripts/
+ │    ├── whisper_transcribe_cer.py
+ │    ├── nptel_transcription.py
+ │    └── Robot_Instruction_NLP.py
+ ├── data/ (optional for sample audios)
+ ├── requirements.txt
+ ├── README.md
 
 ---
 
