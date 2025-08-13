@@ -1,4 +1,4 @@
-# 🎙️ Domain-Specified Speech Translation
+# 🎙️ Domain-Specified-Speech-Translation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SlammerStar/Domain-Specified-Speech-Translation/blob/main/Domain_Speech_Translation_Colab.ipynb)
 
